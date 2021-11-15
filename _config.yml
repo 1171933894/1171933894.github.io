@@ -4,7 +4,7 @@
 
 # Site
 title: heyuanxin
-subtitle: '技术博客'
+subtitle: 技术博客
 description: '涉猎的主要编程语言为 Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等。
 keywords: "Python, Rust, C++, Go, 爬虫, 深度学习, 服务研发, 对象存储'
 keywords:
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
